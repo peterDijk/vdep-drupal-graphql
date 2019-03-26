@@ -1,0 +1,14 @@
+uuid: 7d71cfc4-ddbc-4682-8cd9-0860d843e30e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - petervandijk@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
